@@ -1,0 +1,35 @@
+
+body { 
+    background-color: #800000;
+    font-family: 'Arial Black';
+    font-weight: bold;
+    font-size: 3em;
+    padding-top: 0px;
+    text-shadow: 1px 1px 2px #a00000;
+}
+
+#qualities_cloud { 
+    margin: 0px auto;
+    list-style: none;
+    padding: 0px;
+    text-align: justify;
+    width: 50%;
+    max-width:500px;
+}
+
+#qualities_cloud li {
+    display: inline-block;
+    padding-right: 5px;
+} 
+
+.light-cloud { 
+    color: #f7cf30;
+    transition: color 3s;
+    -webkit-transition: color 3s;
+}
+
+.dark-cloud {    
+    color: #000000;
+    transition: color 3s;
+    -webkit-transition: color 3s;
+}
