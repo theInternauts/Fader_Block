@@ -48,7 +48,7 @@ Make sure this code snippet is inserted into the HTML **after** the line where t
 + ~~Add support for options to be passed in for custom configuration.~~
 + refactor to smooth out animations and improve performance for large collections of elements
 + re-tool to trigger a custom event(s) to allow for greater flexibility and unknown use cases. (this could be epic :) )
-+ consider utilizing javascript for the animations instead of CSS3 transitions for wider broswer compatibiliy and modulatrity
++ consider utilizing javascript for the animations instead of CSS3 transitions for wider browser compatibiliy and modulatrity
 
 Your suggestions, bug fixes, and feature requests are welcome. [email Cricket] (mailto:cricketw@WeAreTheInternauts.com) or submit pull requests whichever you prefer.
 
